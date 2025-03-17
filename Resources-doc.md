@@ -7,3 +7,5 @@
 [Why you should not store images in Database directly?](https://www.linkedin.com/pulse/storing-images-mongodb-reactjs-best-practices-abhishek-sharma-5l0cc?utm_source=share&utm_medium=guest_desktop&utm_campaign=copy) 
 
 [How to write .md file?](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[Understand Network Tab - Official Documentation with screenshots](https://developer.chrome.com/docs/devtools/network/reference/?utm_source=devtools#timing-explanation)
