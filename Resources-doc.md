@@ -9,3 +9,9 @@
 [How to write .md file?](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 [Understand Network Tab - Official Documentation with screenshots](https://developer.chrome.com/docs/devtools/network/reference/?utm_source=devtools#timing-explanation)
+
+[Redis Locking](https://redis.io/docs/latest/develop/use/patterns/distributed-locks/)
+
+[Rate Limiter](https://www.hellojavascript.info/docs/additional-questions/network-requests/fetch-cross-origin-request)
+
+[Mongo Query](https://www.mongodb.com/docs/manual/tutorial/query-documents/)
