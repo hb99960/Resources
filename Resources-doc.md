@@ -21,3 +21,5 @@
 [Concurrency vs Parallelism](https://stackoverflow.com/a/76954105/6028295)
 
 [Sync vs Async](https://stackoverflow.com/a/75225609/6028295)
+
+[For of vs For in](https://stackoverflow.com/questions/29285897/difference-between-for-in-and-for-of-statements)
