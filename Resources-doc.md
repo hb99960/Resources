@@ -15,3 +15,7 @@
 [Rate Limiter](https://www.hellojavascript.info/docs/additional-questions/network-requests/fetch-cross-origin-request)
 
 [Mongo Query](https://www.mongodb.com/docs/manual/tutorial/query-documents/)
+
+[ObjectId in MongoDB](https://steveridout.com/mongo-object-time/)
+
+[Concurrency vs Parallelism](https://stackoverflow.com/a/76954105/6028295)
