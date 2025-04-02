@@ -19,3 +19,5 @@
 [ObjectId in MongoDB](https://steveridout.com/mongo-object-time/)
 
 [Concurrency vs Parallelism](https://stackoverflow.com/a/76954105/6028295)
+
+[Sync vs Async](https://stackoverflow.com/a/75225609/6028295)
