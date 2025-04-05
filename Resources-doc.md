@@ -25,3 +25,5 @@
 [For of vs For in](https://stackoverflow.com/questions/29285897/difference-between-for-in-and-for-of-statements)
 
 [Pro tips for Backend ⭐️](https://article.arunangshudas.com/express-js-secrets-that-senior-developers-dont-share-b2979bd7439a)
+
+[Async/Await is slowing your app](https://article.arunangshudas.com/how-async-await-can-slow-down-your-node-js-app-2bd8c6f793f7)
