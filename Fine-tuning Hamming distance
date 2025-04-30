@@ -1,0 +1,90 @@
+Fine-tuning the **Hamming distance threshold** for perceptual hashing involves analyzing **how similar/dissimilar your image pairs are** and selecting a cutoff value that separates “matches” from “non-matches” effectively.
+
+Here's a **step-by-step guide** to tune the threshold based on your data:
+
+---
+
+### ✅ Step 1: **Collect a Labeled Dataset**
+Create two types of image pairs:
+- **Positive pairs** (same or visually similar images)
+- **Negative pairs** (completely different images)
+
+For example:
+| Image A | Image B | Is Similar |
+|---------|---------|------------|
+| A1.jpg  | A1_copy.jpg | ✅ |
+| A1.jpg  | A2.jpg      | ❌ |
+
+---
+
+### ✅ Step 2: **Compute Hamming Distances**
+Use `imagehash` to compute distances between hashes.
+
+```python
+import imagehash
+from PIL import Image
+
+def hamming_distance(img1_path, img2_path):
+    img1 = Image.open(img1_path)
+    img2 = Image.open(img2_path)
+    hash1 = imagehash.phash(img1)
+    hash2 = imagehash.phash(img2)
+    return hash1 - hash2  # returns Hamming distance
+```
+
+Apply this across your dataset and store:
+```python
+[distance, is_similar]  # e.g., [4, True], [12, False]
+```
+
+---
+
+### ✅ Step 3: **Analyze the Distance Distribution**
+Plot two histograms:
+- Distances for similar pairs
+- Distances for dissimilar pairs
+
+> Use libraries like `matplotlib` or `seaborn`.
+
+```python
+import matplotlib.pyplot as plt
+
+similar = [d for d, label in distances if label]
+different = [d for d, label in distances if not label]
+
+plt.hist(similar, bins=20, alpha=0.5, label='Similar')
+plt.hist(different, bins=20, alpha=0.5, label='Different')
+plt.legend()
+plt.xlabel('Hamming Distance')
+plt.ylabel('Frequency')
+plt.title('Hamming Distance Distribution')
+plt.show()
+```
+
+---
+
+### ✅ Step 4: **Choose a Threshold**
+- Look for the **best separation point** where the overlap is minimal.
+- This is often the value that **minimizes false positives and false negatives**.
+
+Use this threshold in your comparison:
+```python
+if hamming_distance(img1, img2) <= threshold:
+    print("Images are similar")
+```
+
+---
+
+### ✅ Step 5 (Optional): **Automate with Precision/Recall or ROC Curve**
+If you want a quantitative method:
+
+```python
+from sklearn.metrics import precision_recall_curve
+
+y_true = [label for _, label in distances]
+y_scores = [-d for d, _ in distances]  # negative because lower = more similar
+
+precision, recall, thresholds = precision_recall_curve(y_true, y_scores)
+
+# You can plot or select the threshold with best F1 score
+```
