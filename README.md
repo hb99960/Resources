@@ -5,6 +5,8 @@
 
 [Why NodeJS is fast? Concurrency](https://article.arunangshudas.com/the-real-reason-node-js-is-so-fast-its-all-about-concurrency-b3d71b432c1f)
 
+[JS Visualised: Async/Await & Promise](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke)
+
 
 [Why you should not store images in Database directly?](https://www.linkedin.com/pulse/storing-images-mongodb-reactjs-best-practices-abhishek-sharma-5l0cc?utm_source=share&utm_medium=guest_desktop&utm_campaign=copy) 
 
