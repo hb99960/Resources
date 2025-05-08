@@ -35,3 +35,5 @@
 [Recursion Explanation](https://medium.com/@daniel.oliver.king/getting-started-with-recursion-f89f57c5b60e)
 
 [Fun Tool : Github Persona Card](https://codermon.com/)
+
+[LSP](https://stackoverflow.com/questions/56860/what-is-an-example-of-the-liskov-substitution-principle)
