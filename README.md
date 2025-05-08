@@ -40,6 +40,8 @@
 
 [LSP](https://stackoverflow.com/questions/56860/what-is-an-example-of-the-liskov-substitution-principle)
 
+[MongoDB Free Cluster Limitation](https://www.mongodb.com/docs/atlas/reference/free-shared-limitations/)
+
 ---
 ## AI
 
