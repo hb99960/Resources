@@ -36,6 +36,6 @@
 
 [Fun Tool : Github Persona Card](https://codermon.com/)
 
-[LSP](https://reflectoring.io/lsp-explained/)
+[LSP - Detailed](https://reflectoring.io/lsp-explained/)
 
 [LSP](https://stackoverflow.com/questions/56860/what-is-an-example-of-the-liskov-substitution-principle)
