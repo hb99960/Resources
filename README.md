@@ -39,3 +39,8 @@
 [LSP - Detailed](https://reflectoring.io/lsp-explained/)
 
 [LSP](https://stackoverflow.com/questions/56860/what-is-an-example-of-the-liskov-substitution-principle)
+
+---
+## AI
+
+[Attention is all you need (Revolutionary)](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
