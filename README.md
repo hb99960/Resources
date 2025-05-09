@@ -48,3 +48,5 @@
 [Attention is all you need (Revolutionary)](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
 
 [BERT vs GPT](https://medium.com/@prudhvithtavva/bert-vs-gpt-a-tale-of-two-transformers-that-revolutionized-nlp-11fff8e61984)
+
+[Uber's Routing Method](https://www.uber.com/en-IN/blog/engineering-routing-engine/)
