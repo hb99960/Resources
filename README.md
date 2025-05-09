@@ -1,6 +1,5 @@
 [Event Driven Architectures](https://mirzaleka.medium.com/even-driven-programming-in-node-js-008c64f61891)
 
-
 [How Nodejs works?](https://chanduthedev.medium.com/how-node-internally-works-88abeebf5637)
 
 [Why NodeJS is fast? Concurrency](https://article.arunangshudas.com/the-real-reason-node-js-is-so-fast-its-all-about-concurrency-b3d71b432c1f)
@@ -45,6 +44,8 @@
 [Uber's Routing Method](https://www.uber.com/en-IN/blog/engineering-routing-engine/)
 
 [ARM vs x86](https://computercity.com/hardware/processors/mac-arm-vs-x86?utm_source=chatgpt.com)
+
+[ECMA Script History](https://en.wikipedia.org/wiki/ECMAScript_version_history)
 
 ---
 ## AI
