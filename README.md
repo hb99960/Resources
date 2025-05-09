@@ -46,6 +46,8 @@
 [ARM vs x86](https://computercity.com/hardware/processors/mac-arm-vs-x86?utm_source=chatgpt.com)
 
 [ECMA Script History](https://en.wikipedia.org/wiki/ECMAScript_version_history)
+[Summarry](https://www.w3schools.com/js/js_versions.asp)
+
 
 ---
 ## AI
