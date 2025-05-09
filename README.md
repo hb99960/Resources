@@ -42,6 +42,10 @@
 
 [MongoDB Free Cluster Limitation](https://www.mongodb.com/docs/atlas/reference/free-shared-limitations/)
 
+[Uber's Routing Method](https://www.uber.com/en-IN/blog/engineering-routing-engine/)
+
+[ARM vs x86](https://computercity.com/hardware/processors/mac-arm-vs-x86?utm_source=chatgpt.com)
+
 ---
 ## AI
 
@@ -49,4 +53,3 @@
 
 [BERT vs GPT](https://medium.com/@prudhvithtavva/bert-vs-gpt-a-tale-of-two-transformers-that-revolutionized-nlp-11fff8e61984)
 
-[Uber's Routing Method](https://www.uber.com/en-IN/blog/engineering-routing-engine/)
