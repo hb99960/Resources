@@ -54,7 +54,7 @@
 [ECMA Script History](https://en.wikipedia.org/wiki/ECMAScript_version_history)
 [Summarry](https://www.w3schools.com/js/js_versions.asp)
 
-
+[Code Splitting & Tree Shaking](https://medium.com/@softverysolutions/code-splitting-and-tree-shaking-for-efficient-bundling-healthcare-app-case-d749e31a1fb4)
 
 ---
 ## AI
