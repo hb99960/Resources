@@ -56,6 +56,8 @@
 
 [Code Splitting & Tree Shaking](https://medium.com/@softverysolutions/code-splitting-and-tree-shaking-for-efficient-bundling-healthcare-app-case-d749e31a1fb4)
 
+[ًColin Ihrig](https://medium.com/the-node-js-collection/meet-the-people-who-make-node-js-colin-ihrig-4441d283d128)
+
 ---
 ## AI
 
