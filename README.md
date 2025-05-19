@@ -58,6 +58,8 @@
 
 [ًColin Ihrig](https://medium.com/the-node-js-collection/meet-the-people-who-make-node-js-colin-ihrig-4441d283d128)
 
+[Understand Dependencies and DevDependencies](https://medium.com/@ckekula/understanding-dependencies-devdependencies-and-peerdependencies-in-node-js-e8eeb9c858e7)
+
 ---
 ## AI
 
