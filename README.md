@@ -67,3 +67,5 @@
 
 [BERT vs GPT](https://medium.com/@prudhvithtavva/bert-vs-gpt-a-tale-of-two-transformers-that-revolutionized-nlp-11fff8e61984)
 
+[Prompt Injection vs Jail Breaking](https://kenhuangus.medium.com/key-differences-between-prompt-injection-and-jailbreaking-d397cffbe812)
+
