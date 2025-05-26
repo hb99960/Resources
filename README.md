@@ -60,6 +60,8 @@
 
 [Understand Dependencies and DevDependencies](https://medium.com/@ckekula/understanding-dependencies-devdependencies-and-peerdependencies-in-node-js-e8eeb9c858e7)
 
+[Local Storage vs Session Storage vs cookie vs IndexedDB](https://medium.com/@lancelyao/browser-storage-local-storage-session-storage-cookie-indexeddb-and-websql-be6721ebe32a)
+
 ---
 ## AI
 
