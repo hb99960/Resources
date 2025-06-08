@@ -62,6 +62,8 @@
 
 [Local Storage vs Session Storage vs cookie vs IndexedDB](https://medium.com/@lancelyao/browser-storage-local-storage-session-storage-cookie-indexeddb-and-websql-be6721ebe32a)
 
+[MongoDB Docs](https://www.mongodb.com/docs/manual/)
+
 ---
 ## AI
 
