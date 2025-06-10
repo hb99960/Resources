@@ -64,6 +64,8 @@
 
 [MongoDB Docs](https://www.mongodb.com/docs/manual/)
 
+[How does Node.js handles multiple requetst](https://medium.com/@kkgsanjeewac77/curious-engineering-facts-node-js-multiple-connection-handling-october-release-23-24-4cfeb74cb243)
+
 ---
 ## AI
 
