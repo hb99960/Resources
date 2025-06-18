@@ -67,6 +67,11 @@
 [How does Node.js handles multiple requetst](https://medium.com/@kkgsanjeewac77/curious-engineering-facts-node-js-multiple-connection-handling-october-release-23-24-4cfeb74cb243)
 
 ---
+## System Design
+[Clean Coder](http://blog.cleancoder.com)
+
+
+---
 ## AI
 
 [Attention is all you need (Revolutionary)](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
