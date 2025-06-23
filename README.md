@@ -80,3 +80,5 @@
 
 [Prompt Injection vs Jail Breaking](https://kenhuangus.medium.com/key-differences-between-prompt-injection-and-jailbreaking-d397cffbe812)
 
+[Jules AI](https://jules.google.com/task)
+
