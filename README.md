@@ -6,14 +6,21 @@
 ## Resources
 [Event Driven Architectures](https://mirzaleka.medium.com/even-driven-programming-in-node-js-008c64f61891)
 
+[Event Loop](https://en.wikipedia.org/wiki/Event_loop)
+
 [How Nodejs works?](https://chanduthedev.medium.com/how-node-internally-works-88abeebf5637)
 
 [Why NodeJS is fast? Concurrency](https://article.arunangshudas.com/the-real-reason-node-js-is-so-fast-its-all-about-concurrency-b3d71b432c1f)
 
 [JS Visualised: Async/Await & Promise](https://dev.to/lydiahallie/javascript-visualized-promises-async-await-5gke)
 
-
 [Why you should not store images in Database directly?](https://www.linkedin.com/pulse/storing-images-mongodb-reactjs-best-practices-abhishek-sharma-5l0cc?utm_source=share&utm_medium=guest_desktop&utm_campaign=copy) 
+
+[Design your schema](https://www.mongodb.com/docs/manual/data-modeling/schema-design-process/)
+
+[MongoDB Schema Best Practices](https://codedamn.com/news/databases/mongodb-schema-design-best-practices)
+
+[Writing PRDs](https://carlinyuen.medium.com/writing-prds-and-product-requirements-2effdb9c6def)
 
 [How to write .md file?](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
@@ -69,6 +76,10 @@
 ---
 ## System Design
 [Clean Coder](http://blog.cleancoder.com)
+
+[Cache Explained](https://www.computerweekly.com/feature/Write-through-write-around-write-back-Cache-explained)
+
+[Design Cache](https://www.interviewbit.com/problems/design-cache/)
 
 
 ---
