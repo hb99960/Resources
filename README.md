@@ -83,6 +83,7 @@
 
 [Linkedin Reduced Latency](https://blog.quastor.org/p/linkedin-reduced-latency-json)
 
+[LinkedIn improved Latency by 60%](https://medium.com/@piyushkashyap045/how-linkedin-improved-latency-by-60-75fe1d1fc2c8)
 
 ---
 ## AI
