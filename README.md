@@ -81,6 +81,8 @@
 
 [Design Cache](https://www.interviewbit.com/problems/design-cache/)
 
+[Linkedin Reduced Latency](https://blog.quastor.org/p/linkedin-reduced-latency-json)
+
 
 ---
 ## AI
