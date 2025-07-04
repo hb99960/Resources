@@ -73,6 +73,8 @@
 
 [How does Node.js handles multiple requetst](https://medium.com/@kkgsanjeewac77/curious-engineering-facts-node-js-multiple-connection-handling-october-release-23-24-4cfeb74cb243)
 
+[URL Shortener](https://bytebytego.com/courses/system-design-interview/design-a-url-shortener)
+
 ---
 ## System Design
 [Clean Coder](http://blog.cleancoder.com)
