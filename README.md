@@ -75,6 +75,8 @@
 
 [URL Shortener](https://bytebytego.com/courses/system-design-interview/design-a-url-shortener)
 
+[How Nodejs works](https://www.linkedin.com/pulse/how-does-work-nodejs-tarikul-sk/)
+
 ---
 ## System Design
 [Clean Coder](http://blog.cleancoder.com)
