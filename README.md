@@ -80,6 +80,8 @@
 
 [How Nodejs works](https://www.linkedin.com/pulse/how-does-work-nodejs-tarikul-sk/)
 
+[PRD](https://www.news.aakashg.com/p/product-requirements-documents-prds)
+
 ---
 ## System Design
 [Clean Coder](http://blog.cleancoder.com)
