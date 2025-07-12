@@ -82,6 +82,12 @@
 
 [PRD](https://www.news.aakashg.com/p/product-requirements-documents-prds)
 
+
+## API Designing
+
+[Tips to Design Good APIs](https://www.youtube.com/watch?v=_gQaygjm_hg)
+
+
 ## Data Modelling
 
 [Begineer's Guide](https://youtu.be/CUR6rKrIEGc?feature=shared)
