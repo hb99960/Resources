@@ -82,6 +82,12 @@
 
 [PRD](https://www.news.aakashg.com/p/product-requirements-documents-prds)
 
+## Data Modelling
+
+[Begineer's Guide](https://youtu.be/CUR6rKrIEGc?feature=shared)
+
+[LMS - Data Modelling](https://youtu.be/61vSIrg70xM?t=4140)
+
 ---
 ## System Design
 [Clean Coder](http://blog.cleancoder.com)
