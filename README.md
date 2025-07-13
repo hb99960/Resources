@@ -82,6 +82,7 @@
 
 [PRD](https://www.news.aakashg.com/p/product-requirements-documents-prds)
 
+[Nodejs at Scale](https://dev.to/rikenshah/scaling-backend-to-1m-requests-with-just-2gb-ram-4m0c)
 
 ## API Designing
 
