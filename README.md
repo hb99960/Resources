@@ -84,6 +84,8 @@
 
 [Nodejs at Scale](https://dev.to/rikenshah/scaling-backend-to-1m-requests-with-just-2gb-ram-4m0c)
 
+[Scalable Backend](https://dev.to/anmolbaranwal/7-steps-to-building-scalable-backend-from-scratch-fp8)
+
 ## API Designing
 
 [Tips to Design Good APIs](https://www.youtube.com/watch?v=_gQaygjm_hg)
