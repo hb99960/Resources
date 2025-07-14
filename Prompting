@@ -23,5 +23,7 @@ additional information is needed from me to find the exact solution).
 
 <Task>. While making assumptions, discuss with me instead of deciding on your own. If multiple approaches exist, discuss trade-offs with me
 
+Answer only if you are certain; otherwise, say you don’t know.
+
 Phases of Development : Schemas, APIs, Schema-API mapping, Git Versioning
 AI Workflow : Cursor for backend, Windsurf for debugging, Lovable for frontend
