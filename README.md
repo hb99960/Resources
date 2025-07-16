@@ -86,6 +86,10 @@
 
 [Scalable Backend](https://dev.to/anmolbaranwal/7-steps-to-building-scalable-backend-from-scratch-fp8)
 
+[MongoDB Wire Protocol](https://www.mongodb.com/docs/manual/reference/mongodb-wire-protocol/)
+
+[How does MongoDB Wire Protocol Works?](https://superuser.com/a/1123685)
+
 ## API Designing
 
 [Tips to Design Good APIs](https://www.youtube.com/watch?v=_gQaygjm_hg)
