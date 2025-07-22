@@ -1,0 +1,111 @@
+Sure! Here's your cleaned-up version without emojis, while keeping the formatting and content intact:
+
+1. What is the difference between the microtask queue and the macrotask queue?
+
+Microtask queue**: Runs immediately after the current call stack is empty and before the next macrotask.
+Macrotask queue**: Runs after microtasks are finished. Scheduled for the next tick of the event loop.
+
+2. Which has higher priority?
+
+Microtasks have higher priority.
+After each macrotask (e.g., setTimeout), the engine empties the microtask queue first before proceeding.
+
+3. Examples
+
+| Type       | Examples                                                             |
+| ---------- | -------------------------------------------------------------------- |
+| Microtasks | Promise.then(), catch(), finally(), queueMicrotask()         |
+| Macrotasks | setTimeout(), setInterval(), setImmediate() (Node), DOM events |
+
+4. Output and Explanation
+
+console.log("start");
+
+setTimeout(() => console.log("macrotask"), 0);
+
+Promise.resolve().then(() => console.log("microtask"));
+
+console.log("end");
+
+Output:
+
+start
+end
+microtask
+macrotask
+
+Explanation:
+
+console.log("start") and console.log("end") run in the main call stack.
+Promise.then() (microtask) runs after the call stack but before setTimeout() (macrotask).
+
+5. What happens if a microtask schedules another microtask?
+
+The new microtask is queued and executed after the current microtask completes, before moving to macrotasks.
+
+Promise.resolve().then(() => {
+  console.log("microtask 1");
+  queueMicrotask(() => console.log("nested microtask 2"));
+});
+
+Output:
+
+microtask 1
+nested microtask 2
+
+6. Can a long-running microtask block rendering or events?
+
+Yes.
+Since the event loop must finish all microtasks before rendering, a large or infinite microtask chain can block rendering, making the UI unresponsive.
+
+7. Which runs first: setTimeout() or Promise.then()?
+
+Promise.then() runs first.
+
+setTimeout(() => console.log("timeout"), 0);
+Promise.resolve().then(() => console.log("promise"));
+
+Output:
+
+promise
+timeout
+
+Because Promise.then() is a microtask.
+
+8. Why prefer queueMicrotask() over setTimeout()?
+
+queueMicrotask() is faster: it runs before any macrotask.
+Useful for splitting heavy logic into small chunks without waiting for a full event loop tick.
+
+queueMicrotask(() => {
+  // High-priority background task
+});
+
+9. How does the event loop ensure fairness with many microtasks?
+
+It doesn't inherently enforce fairness.
+If you keep scheduling new microtasks within microtasks, it can cause starvation — macrotasks never get a chance.
+
+Promise.resolve().then(function repeat() {
+  queueMicrotask(repeat); // starves the loop
+});
+
+Use caution — avoid infinite microtask chains.
+
+10. Real-world bug example
+
+button.addEventListener("click", () => {
+  Promise.resolve().then(() => while(true) {}); // blocks rendering
+});
+
+This blocks rendering or event processing — because microtasks run before repaint and can block the main thread.
+
+Summary
+
+| Microtasks                           | Macrotasks                       |
+| ------------------------------------ | -------------------------------- |
+| Run before repaint                   | Run on next tick                 |
+| High priority                        | Lower priority                   |
+| Use for: quick fixes, logic chaining | Use for: delayed work, UI events |
+
+Let me know if you want this in a PDF handout, mind map, or flashcard format.
