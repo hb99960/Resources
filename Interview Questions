@@ -1,23 +1,18 @@
-TCP vs UDP
-How micro-services communicate?
-Mongo Query on specific field?
-Explain major services in Mentor Connect platform.
-Client Side Rendering vs Server Side Rendering
+Q: TCP vs UDP
+Q: How micro-services communicate?
+Q: Mongo Query on specific field?
+Q: Explain major services in Mentor Connect platform.
+Q: Client Side Rendering vs Server Side Rendering
 
-
+Q:
 **Implementation Problem:** Implement 'User Activity Feed'
-  
- 
-
   **Task:** Create an activity feed that displays recent actions performed by users.
-  
- 
-
   **Details:**
   - **Frontend:** Design a feed interface showing user actions in chronological order.
   - **Backend:** API endpoints to fetch recent activities and record user actions.
   - **Database:** Create an `activities` collection with user ID, action type, item ID, and timestamp.
- 
-
  Follow-up 1: How does MongoDB's `index` improve the performance of queries on the `activities` collection?
  Follow-up 2: How does WebSockets enhance real-time updates in a user activity feed?
+
+Q: Explain what debouncing is and provide a real-world scenario where debouncing can be beneficial. How would you implement debouncing in JavaScript?
+Q: What is the purpose of Web Workers in JavaScript? How do they enable parallel execution?
