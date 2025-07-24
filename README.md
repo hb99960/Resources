@@ -92,6 +92,10 @@
 
 [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 
+## Libraries worth trying
+
+[Sharp]()
+
 ## API Designing
 
 [Tips to Design Good APIs](https://www.youtube.com/watch?v=_gQaygjm_hg)
