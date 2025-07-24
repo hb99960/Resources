@@ -90,6 +90,8 @@
 
 [How does MongoDB Wire Protocol Works?](https://superuser.com/a/1123685)
 
+[OWASP Top 10](https://owasp.org/www-project-top-ten/)
+
 ## API Designing
 
 [Tips to Design Good APIs](https://www.youtube.com/watch?v=_gQaygjm_hg)
