@@ -1,0 +1,9 @@
+Practice MongoDB Aggregation
+
+Join this URI : mongosh “mongodb+srv://read_only:OxxrqgRYA1PFs0tf@cluster0.k52jp.mongodb.net/ipl”
+
+1. Find the most economical bowler who has delivered at least 300 balls.
+2. Find the batsman who has scored the most number of runs in death overs.
+3. Find the batsman who has hit the most number of boundaries against ‘Mumbai Indians’
+
+Original Resource : https://www.mongodb.com/community/forums/t/mongodb-bytes-7-aggregation-challenge/205046
