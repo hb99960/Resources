@@ -92,6 +92,8 @@
 
 [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 
+[Understand CORS error](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CORS) - OPTIONS, REQUEST
+
 ## Libraries worth trying
 
 [Sharp]()
