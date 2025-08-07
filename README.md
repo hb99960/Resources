@@ -94,6 +94,8 @@
 
 [Understand CORS error](https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/CORS) - OPTIONS, REQUEST
 
+[How Browsers Work?](https://web.dev/articles/howbrowserswork)
+
 ## Libraries worth trying
 
 [Sharp]()
