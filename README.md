@@ -102,6 +102,8 @@
 
 [ObjectId](https://www.mongodb.com/docs/manual/reference/method/ObjectId/)
 
+[MongoDB Internal Architecture by Hussein Nasser](https://medium.com/@hnasr/mongodb-internal-architecture-9a32f1403d6f)
+
 ## Libraries worth trying
 
 [Sharp]()
