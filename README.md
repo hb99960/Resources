@@ -98,6 +98,8 @@
 
 [Hussein Nasser on Databases](https://x.com/hnasr/status/1602376421355098112?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1602376421355098112%7Ctwgr%5E756934e746cde59fdaa7b8172b8ba1786f51cb03%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fcdn.embedly.com%2Fwidgets%2Fmedia.html%3Ftype%3Dtext2Fhtmlkey%3Da19fcc184b9711e1b4764040d3dc5c07schema%3Dtwitterurl%3Dhttps3A%2F%2Ftwitter.com%2Fhnasr%2Fstatus%2F1602376421355098112image%3Dhttps3A%2F%2Fi.embed.ly%2F1%2Fimage3Furl3Dhttps253A252F252Fabs.twimg.com252Ferrors252Flogo46x38.png26key3Da19fcc184b9711e1b4764040d3dc5c07)
 
+[Wired Tiger](https://www.mongodb.com/docs/manual/core/wiredtiger/)
+
 ## Libraries worth trying
 
 [Sharp]()
