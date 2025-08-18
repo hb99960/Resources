@@ -100,6 +100,8 @@
 
 [Wired Tiger](https://www.mongodb.com/docs/manual/core/wiredtiger/)
 
+[ObjectId](https://www.mongodb.com/docs/manual/reference/method/ObjectId/)
+
 ## Libraries worth trying
 
 [Sharp]()
