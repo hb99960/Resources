@@ -104,6 +104,8 @@
 
 [MongoDB Internal Architecture by Hussein Nasser](https://medium.com/@hnasr/mongodb-internal-architecture-9a32f1403d6f)
 
+[Node.js Event Loop - One Stop](https://www.youtube.com/playlist?list=PLC3y8-rFHvwj1_l8acs_lBi3a0HNb3bAN)
+
 ## Libraries worth trying
 
 [Sharp]()
