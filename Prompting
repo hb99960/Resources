@@ -28,3 +28,13 @@ Answer only if you are certain; otherwise, say you don’t know.
 Vibe Coding : 
 Phases of Development : Schemas, APIs, Schema-API mapping, Git Versioning
 AI Workflow : Cursor for backend, Windsurf for debugging, Lovable for frontend
+
+Create Quiz:
+Generate 5 multiple-choice questions (MCQs) designed for an absolute beginner to understand the most fundamental concepts of topic. The questions should be direct (no negative phrasing) and focus exclusively on the absolute basics, such as the primary purpose, the definition.
+The output must be in a CSV format with a header row and the following four columns:
+
+question_text: Contains the text of the question.
+type: This column should always contain the value correct_answer_type.
+options: A single string containing four simple and plausible answers, separated by commas, and enclosed in double quotes.
+correct_option_value: Contains the exact text of the correct answer from the options.
+
